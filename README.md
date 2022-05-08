@@ -1,2 +1,2 @@
-## Machine Learning
-<img src="./images/ml.jpeg">
+# Machine Learning
+<img src="./assets/ml.jpeg">
